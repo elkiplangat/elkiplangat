@@ -21,4 +21,14 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Django,Android with Java and Kotlin, React & Spring projects.
 -  🗣️ Blogs sometimes on [kiplangat.dev](https://kiplangat.dev)
 
-<!--START_SECTION:waka-->[\s\S]+<!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+```txt
+Go               4 hrs 1 min     █████████████████████░░░░   84.52 %
+HTML             21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+GitIgnore file   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Java             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Cheetah          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+```
+
+<!--END_SECTION:waka-->
