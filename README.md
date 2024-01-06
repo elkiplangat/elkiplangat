@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Django,Android with Java and Kotlin, React & Spring projects.
 -  🗣️ Blogs sometimes on [kiplangat.dev](https://kiplangat.dev)
 
+  ## Weekly code time
+
 <!--START_SECTION:waka-->
 
 ```txt
