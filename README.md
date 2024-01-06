@@ -1,8 +1,11 @@
 ### Hi there 👋 I am Erick Langat
 ---
 ## A Software Engineer
+
 <div align="center">
+  
 [![wakatime](https://wakatime.com/badge/user/55eadf42-c1c5-4930-b153-72952ac5ca5c.svg)](https://wakatime.com/@55eadf42-c1c5-4930-b153-72952ac5ca5c)
+
 </div>
 
 <!--
