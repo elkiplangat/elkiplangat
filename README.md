@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -  🗣️ Blogs sometimes on [kiplangat.dev](https://kiplangat.dev)
 
 <div align="center">
-  ## Weekly code time
+  <h3> Weekly code time </h3>
 
 <!--START_SECTION:waka-->
 
