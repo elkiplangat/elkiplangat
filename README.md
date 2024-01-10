@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              5 hrs 44 mins   █████████████████▓░░░░░░░   70.60 %
-Go                1 hr 14 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
-Groovy            20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-Gradle            18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Java Properties   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Java              5 hrs 44 mins   ████████████████████▒░░░░   80.96 %
+Groovy            20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Gradle            18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Go                17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Java Properties   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->
