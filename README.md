@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   28.14 %
-Go                1 hr 47 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
-YAML              1 hr 40 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
-textmate          1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
-Kotlin            54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+Go                3 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   32.44 %
+Java              2 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
+YAML              1 hr 40 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
+textmate          1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Kotlin            54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
 ```
 
 <!--END_SECTION:waka-->
