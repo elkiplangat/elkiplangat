@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go                3 hrs 22 mins   ███████████████▒░░░░░░░░░   61.42 %
-Java              2 hrs 5 mins    █████████▓░░░░░░░░░░░░░░░   38.22 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Go                3 hrs 22 mins   █████████████████████▒░░░   85.43 %
+Java              33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
