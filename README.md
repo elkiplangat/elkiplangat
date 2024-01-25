@@ -32,10 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go               3 hrs 2 mins    █████████████████████████   99.95 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go           2 hrs 15 mins   █████████████████▓░░░░░░░   70.47 %
+Java         56 mins         ███████▒░░░░░░░░░░░░░░░░░   29.15 %
+Gradle       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
