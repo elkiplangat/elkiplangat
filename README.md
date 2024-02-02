@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java     1 hr 19 mins    █████████████████████▓░░░   86.87 %
-Gradle   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+Java   51 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
