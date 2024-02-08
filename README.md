@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java   1 hr 59 mins    █████████████████████████   100.00 %
+Java             1 hr 59 mins    ███████████████▒░░░░░░░░░   61.02 %
+Go               1 hr 16 mins    █████████▓░░░░░░░░░░░░░░░   38.91 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
