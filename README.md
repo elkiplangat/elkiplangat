@@ -32,11 +32,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java             4 hrs 54 mins   ███████████████████▒░░░░░   77.79 %
-Go               1 hr 21 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
-Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Kotlin           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java   4 hrs 53 mins   ████████████████████████▓   98.47 %
+Go     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
