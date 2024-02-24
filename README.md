@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java             1 hr 51 mins    ████████████████████░░░░░   79.89 %
-Kotlin           21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
-Text             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-GLSL shader      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Java             10 hrs 2 mins   ██████████████████████░░░   88.64 %
+GLSL shader      49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Kotlin           22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Text             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
