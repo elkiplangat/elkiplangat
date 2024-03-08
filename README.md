@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Jupyter   2 hrs 3 mins    ████████████████████████▓   98.58 %
-Python    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Java             2 mins          ███████████████████████░░   92.57 %
+GitIgnore file   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
 ```
 
 <!--END_SECTION:waka-->
