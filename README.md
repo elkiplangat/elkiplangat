@@ -32,8 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java             2 mins          ███████████████████████░░   92.57 %
-GitIgnore file   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Java             1 hr 54 mins    █████████████████░░░░░░░░   67.35 %
+HTML             46 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
+XML              7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+CSS              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
