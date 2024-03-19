@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JSON              30 mins         █████████████░░░░░░░░░░░░   51.69 %
-Python            26 mins         ███████████▒░░░░░░░░░░░░░   45.69 %
-Java Properties   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Python            2 hrs 20 mins   ████████████████▓░░░░░░░░   66.66 %
+JSON              1 hr 3 mins     ███████▓░░░░░░░░░░░░░░░░░   30.19 %
+XML               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Java              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Java Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
