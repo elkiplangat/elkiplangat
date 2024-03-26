@@ -32,11 +32,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python            16 hrs 13 mins  █████████████████████▓░░░   86.85 %
-JSON              2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-INI               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-XML               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Java              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python   14 hrs 20 mins  ██████████████████████▒░░   88.74 %
+JSON     1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+INI      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
