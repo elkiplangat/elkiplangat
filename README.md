@@ -32,10 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           7 mins          ████████████▒░░░░░░░░░░░░   49.90 %
-JSON             6 mins          █████████▓░░░░░░░░░░░░░░░   39.17 %
-GitIgnore file   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python           10 mins         ████████████▒░░░░░░░░░░░░   48.76 %
+JSON             6 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
+Jupyter          3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
+GitIgnore file   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
