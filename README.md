@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Docker              30 mins         ███████████░░░░░░░░░░░░░░   44.65 %
-GitIgnore file      10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
-Shell Script        7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-Python              6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
-Jupyter             6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+Python              1 hr 14 mins    █████████████▒░░░░░░░░░░░   52.99 %
+Docker              30 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
+GitIgnore file      15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+Shell Script        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Jupyter             6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
 ```
 
 <!--END_SECTION:waka-->
