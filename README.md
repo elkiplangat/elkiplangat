@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python              22 hrs 12 mins  ████████████████████████░   95.50 %
-Text                21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Requirements.txt    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-GitIgnore file      8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Markdown            7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Python              22 hrs 36 mins  ███████████████████████▓░   94.78 %
+HTML                21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Text                21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Requirements.txt    9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Shell Script        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
