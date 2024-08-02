@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python              21 hrs 28 mins  ████████████████████████░   95.43 %
-Docker              21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Text                8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-i3config            6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-DockerIgnore file   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Python             19 hrs 35 mins  ████████████████████████░   96.06 %
+Docker             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Text               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+YAML               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Markdown           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
