@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           12 hrs 2 mins   ████████████████████████░   95.59 %
-Text             23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Shell Script     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python           12 hrs 16 mins  ███████████████████████▓░   95.08 %
+Text             23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Shell Script     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Markdown         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 SourceMap        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
