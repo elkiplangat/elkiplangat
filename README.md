@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           12 hrs 16 mins  ███████████████████████▓░   95.08 %
-Text             23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Shell Script     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Markdown         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-SourceMap        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python           12 hrs 15 mins  ███████████████████████▒░   92.82 %
+Text             23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+JSON             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Shell Script     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Markdown         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
