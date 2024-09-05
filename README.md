@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python             8 hrs 29 mins   █████████████████████▓░░░   86.01 %
-HTML               1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-CSS                7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Markdown           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Requirements.txt   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Python             9 hrs 40 mins   ████████████████████▒░░░░   81.94 %
+HTML               1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+Bash               18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Text               14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+textmate           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
