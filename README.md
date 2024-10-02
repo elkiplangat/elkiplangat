@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python             9 hrs 42 mins   ███████████████████████░░   92.40 %
-GitIgnore file     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-textmate           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Requirements.txt   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Shell Script       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Python             10 hrs 34 mins  ████████████████████████░   96.33 %
+textmate           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Requirements.txt   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Shell Script       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Bash               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
