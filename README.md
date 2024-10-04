@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python             12 hrs 28 mins  ████████████████████████▒   97.82 %
-textmate           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Bash               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Shell Script       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Docker             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Python             14 hrs 45 mins  ████████████████████████▒   96.88 %
+textmate           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Requirements.txt   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Bash               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Docker             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
