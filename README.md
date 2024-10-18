@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python             11 hrs 50 mins  ████████████████▓░░░░░░░░   66.79 %
-Lua                1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-TypeScript         1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Bash               1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-TOML               39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Python             13 hrs 19 mins  ████████████████▓░░░░░░░░   66.86 %
+Lua                1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+Other              1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+TypeScript         1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Bash               1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
 ```
 
 <!--END_SECTION:waka-->
