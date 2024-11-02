@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python             12 hrs 44 mins  ███████████████████████░░   92.36 %
-TOML               20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Vim Script         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-conf               9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Lua                8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Python           9 hrs 49 mins   ████████████████████░░░░░   80.43 %
+Java             1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+TOML             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Vim Script       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+conf             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
