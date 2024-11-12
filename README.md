@@ -32,11 +32,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python           15 hrs 36 mins  ████████████████████████▓   98.62 %
-i3config         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Lua              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Markdown         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python     11 hrs 9 mins   █████████████████████████   99.91 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
