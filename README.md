@@ -32,10 +32,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python         8 hrs 54 mins   ████████████████████████▒   97.85 %
-Shell Script   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Bash           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python         8 hrs 1 min     ████████████████████████▒   97.73 %
+Shell Script   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Bash           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
