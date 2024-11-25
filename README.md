@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python             7 hrs 50 mins   █████████████████░░░░░░░░   67.58 %
-Go                 2 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
-Bash               22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-.env file          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-HTTP Request       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Python             4 hrs 55 mins   ███████████████▓░░░░░░░░░   63.20 %
+Go                 2 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   32.11 %
+HTTP Request       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Text               6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+reStructuredText   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
