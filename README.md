@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python             8 hrs 12 mins   ██████████████████░░░░░░░   72.66 %
-Java               1 hr 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Text               35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Kotlin             28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-CSV/TSV            23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Python             5 hrs 26 mins   ████████████▓░░░░░░░░░░░░   50.55 %
+Java               3 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   37.05 %
+Text               35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Kotlin             28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+CSV/TSV            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
