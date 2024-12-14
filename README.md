@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java                 12 hrs 25 mins  █████████████████░░░░░░░░   67.90 %
-Glsl File            3 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-Python               2 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-Text                 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Wavefront OBJ File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java                 9 hrs 8 mins    ████████████████▓░░░░░░░░   66.19 %
+Python               2 hrs 37 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
+Glsl File            1 hr 53 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+Text                 9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Wavefront OBJ File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
