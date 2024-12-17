@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java        2 hrs 39 mins   ███████████████████░░░░░░   76.25 %
-Python      46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.31 %
-Glsl File   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Go       1 hr 55 mins    ███████████████▒░░░░░░░░░   61.02 %
+Python   1 hr 13 mins    █████████▓░░░░░░░░░░░░░░░   38.79 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
