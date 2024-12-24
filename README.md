@@ -32,11 +32,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go               2 hrs 16 mins   ██████████████████▒░░░░░░   73.50 %
-Python           37 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 %
-Rust             11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Go               21 mins         ████████████▒░░░░░░░░░░░░   49.14 %
+Python           11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.49 %
+Rust             11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.09 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
