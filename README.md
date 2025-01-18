@@ -32,8 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Vim Script   16 mins         ████████████████████████▓   98.38 %
-conf         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Vim Script   24 mins         ███████████████░░░░░░░░░░   60.58 %
+Text         6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+Go           4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+conf         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Lua          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
 ```
 
 <!--END_SECTION:waka-->
