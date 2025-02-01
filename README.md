@@ -32,11 +32,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go               1 hr 54 mins    ███████████████████▓░░░░░   79.12 %
-CSS              15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-jsonc            14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-conf             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
