@@ -32,8 +32,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-conf   16 mins         ████████████████████████░   96.27 %
-Bash   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Go     51 mins         ██████████████████▓░░░░░░   74.36 %
+conf   17 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.70 %
+Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
