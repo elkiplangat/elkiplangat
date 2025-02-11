@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go               3 hrs 17 mins   ███████████████████████░░   91.71 %
-conf             17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Go               5 hrs 30 mins   ███████████████████████▓░   94.84 %
+conf             17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
