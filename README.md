@@ -32,8 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go               3 hrs 59 mins   █████████████████████████   99.94 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Go           2 hrs 54 mins   █████████████████████▒░░░   85.39 %
+CSS          14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+HTML         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Vim Script   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
