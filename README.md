@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go           1 hr 38 mins    ████████████████████░░░░░   80.31 %
-CSS          10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-HTML         10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-Vim Script   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Go           1 hr 38 mins    █████████████████████▒░░░   85.13 %
+CSS          10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+HTML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Vim Script   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
