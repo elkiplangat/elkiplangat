@@ -32,10 +32,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-CSS     1 hr 44 mins    ██████████████████████▒░░   89.48 %
-conf    12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+CSS    7 mins          █████████████████████▓░░░   87.01 %
+conf   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+Text   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
