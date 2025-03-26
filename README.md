@@ -32,9 +32,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go     14 mins         ████████████████████████▒   97.64 %
-CSS    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Go     14 mins         ████████████████████████░   95.38 %
+conf   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:waka-->
