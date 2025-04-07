@@ -32,11 +32,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-cfg      42 mins         ██████████████▓░░░░░░░░░░   58.87 %
-jsonc    12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
-Python   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-Other    6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
-conf     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+conf    3 mins          ███████████████████▓░░░░░   78.83 %
+jsonc   0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
 ```
 
 <!--END_SECTION:waka-->
