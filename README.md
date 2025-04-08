@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-conf    3 mins          ███████████████████▓░░░░░   78.83 %
-jsonc   0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
