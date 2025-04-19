@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go   41 mins         █████████████████████████   100.00 %
+Go         41 mins         ████████████████▓░░░░░░░░   67.14 %
+hyprlang   17 mins         ███████▒░░░░░░░░░░░░░░░░░   28.93 %
+Other      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
