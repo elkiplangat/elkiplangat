@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go         41 mins         ████████████████▓░░░░░░░░   67.14 %
-hyprlang   17 mins         ███████▒░░░░░░░░░░░░░░░░░   28.93 %
-Other      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+hyprlang   1 hr 18 mins    █████████▓░░░░░░░░░░░░░░░   38.65 %
+Go         50 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.74 %
+kitty      26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 %
+conf       18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+Python     10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
 ```
 
 <!--END_SECTION:waka-->
