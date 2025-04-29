@@ -32,10 +32,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#         1 hr 33 mins    ███████████████████▓░░░░░   78.71 %
-hyprlang   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-Go         10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-Bash       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+C#   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
