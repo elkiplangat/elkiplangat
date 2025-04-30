@@ -32,7 +32,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#   1 min           █████████████████████████   100.00 %
+C#         25 mins         █████████▒░░░░░░░░░░░░░░░   36.93 %
+Python     15 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.36 %
+Bash       11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
+hyprlang   9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+Text       6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
 ```
 
 <!--END_SECTION:waka-->
