@@ -32,11 +32,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#                18 mins         ██████████████████▒░░░░░░   73.58 %
-Gradle            3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-Java Properties   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-Markdown          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-JSON              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+C#                18 mins         ██████████████████▓░░░░░░   74.20 %
+Gradle            3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
+Java Properties   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+Markdown          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 ```
 
 <!--END_SECTION:waka-->
