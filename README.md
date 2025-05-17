@@ -32,10 +32,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C#                18 mins         ██████████████████▓░░░░░░   74.20 %
-Gradle            3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
-Java Properties   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
-Markdown          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
